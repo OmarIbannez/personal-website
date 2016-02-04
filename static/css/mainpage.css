@@ -1,0 +1,25 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+body {
+    overflow-x: hidden;
+}
+#yo {
+    width: 12rem;
+    border-radius: 50%;
+    border: .2rem solid #fff;
+}
+#name {
+    font-size: 3rem;
+}
+.no-pad-bot {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.2);
+}
