@@ -23,3 +23,32 @@ body {
     height: 100%;
     background: rgba(0,0,0,0.2);
 }
+
+.description {
+    font-size: 1.2rem;
+}
+footer {
+    width: 18rem;
+    margin: 5rem auto;
+}
+footer a {
+    width: 3rem;
+    height: 3rem;
+    background-size: 3rem !important;
+    display: inline-block;
+}
+footer a.facebook {
+    background: url('../img/facebook.svg');
+}
+footer a.twitter {
+    background: url('../img/twitter.svg');
+}
+footer a.google {
+    background: url('../img/google.svg');
+}
+footer a.linkedin {
+    background: url('../img/linkedin.svg');
+}
+footer a.github {
+    background: url('../img/github.svg');
+}
